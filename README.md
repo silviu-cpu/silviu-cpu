@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Silviu
-- 👀 I’m interested in Web Development, i want to learn more.
+- 👀 I'm interested in web development, and I want to learn more about it.
 
